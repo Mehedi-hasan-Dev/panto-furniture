@@ -1,0 +1,197 @@
+[
+  {
+    "id": 1,
+    "name": "Sakarias Armchair",
+    "price": 392,
+    "image": "../src/assets/furniture/chair1.jpg",
+    "rating": 5,
+    "category": "Chair"
+  },
+  {
+    "id": 2,
+    "name": "Baltsar Chair",
+    "price": 299,
+    "image": "../src/assets/furniture/chair2.png",
+    "rating": 5,
+    "category": "Chair"
+  },
+  {
+    "id": 3,
+    "name": "Anjay Chair",
+    "price": 519,
+    "image": "../src/assets/furniture/chair3.png",
+    "rating": 5,
+    "category": "Chair"
+  },
+  {
+    "id": 4,
+    "name": "Nyantuy Chair",
+    "price": 921,
+    "image": "../src/assets/furniture/chair4.png",
+    "rating": 5,
+    "category": "Chair"
+  },
+  {
+    "id": 5,
+    "name": "Comfort Recliner",
+    "price": 610,
+    "image": "../src/assets/furniture/chair5.png",
+    "rating": 4,
+    "category": "Chair"
+  },
+  {
+    "id": 6,
+    "name": "Minimalist Chair",
+    "price": 255,
+    "image": "../src/assets/furniture/chair6.png",
+    "rating": 4,
+    "category": "Chair"
+  },
+
+  {
+    "id": 7,
+    "name": "LUX Bed",
+    "price": 799,
+    "image": "../src/assets/furniture/bed1.jpeg",
+    "rating": 4,
+    "category": "Beds"
+  },
+  {
+    "id": 8,
+    "name": "Classic Bed",
+    "price": 699,
+    "image": "../src/assets/furniture/bed2.jpeg",
+    "rating": 5,
+    "category": "Beds"
+  },
+  {
+    "id": 9,
+    "name": "Modern Bed",
+    "price": 850,
+    "image": "../src/assets/furniture/bed3.jpeg",
+    "rating": 5,
+    "category": "Beds"
+  },
+  {
+    "id": 10,
+    "name": "Double Bed Deluxe",
+    "price": 950,
+    "image": "../src/assets/furniture/bed4.jpeg",
+    "rating": 4,
+    "category": "Beds"
+  },
+  {
+    "id": 11,
+    "name": "Wooden Frame Bed",
+    "price": 575,
+    "image": "../src/assets/furniture/bed5.jpeg",
+    "rating": 3,
+    "category": "Beds"
+  },
+  {
+    "id": 12,
+    "name": "Comfort Queen Bed",
+    "price": 999,
+    "image": "../src/assets/furniture/bed6.jpeg",
+    "rating": 5,
+    "category": "Beds"
+  },
+
+  {
+    "id": 13,
+    "name": "Royal Sofa",
+    "price": 999,
+    "image": "../src/assets/furniture/sofa1.jpeg",
+    "rating": 5,
+    "category": "Sofa"
+  },
+  {
+    "id": 14,
+    "name": "Velvet 3-Seater",
+    "price": 1200,
+    "image": "../src/assets/furniture/sofa2.jpeg",
+    "rating": 4,
+    "category": "Sofa"
+  },
+  {
+    "id": 15,
+    "name": "Sectional Sofa",
+    "price": 1350,
+    "image": "../src/assets/furniture/sofa3.jpeg",
+    "rating": 5,
+    "category": "Sofa"
+  },
+  {
+    "id": 16,
+    "name": "Scandinavian Sofa",
+    "price": 980,
+    "image": "../src/assets/furniture/sofa4.jpeg",
+    "rating": 4,
+    "category": "Sofa"
+  },
+  {
+    "id": 17,
+    "name": "Corner Sofa Set",
+    "price": 1490,
+    "image": "../src/assets/furniture/sofa5.jpeg",
+    "rating": 5,
+    "category": "Sofa"
+  },
+  {
+    "id": 18,
+    "name": "Minimalist Sofa",
+    "price": 800,
+    "image": "../src/assets/furniture/sofa6.jpeg",
+    "rating": 4,
+    "category": "Sofa"
+  },
+
+  {
+    "id": 19,
+    "name": "Modern Lamp",
+    "price": 189,
+    "image": "../src/assets/furniture/lamp1.jpeg",
+    "rating": 4,
+    "category": "Lamp"
+  },
+  {
+    "id": 20,
+    "name": "Desk Lamp",
+    "price": 99,
+    "image": "../src/assets/furniture/lamp2.jpeg",
+    "rating": 4,
+    "category": "Lamp"
+  },
+  {
+    "id": 21,
+    "name": "LED Floor Lamp",
+    "price": 215,
+    "image": "../src/assets/furniture/lamp3.jpeg",
+    "rating": 5,
+    "category": "Lamp"
+  },
+  {
+    "id": 22,
+    "name": "Vintage Table Lamp",
+    "price": 145,
+    "image": "../src/assets/furniture/lamp4.jpeg",
+    "rating": 3,
+    "category": "Lamp"
+  },
+  {
+    "id": 23,
+    "name": "Bedside Lamp",
+    "price": 75,
+    "image": "../src/assets/furniture/lamp5.jpeg",
+    "rating": 4,
+    "category": "Lamp"
+  },
+  {
+    "id": 24,
+    "name": "Smart RGB Lamp",
+    "price": 249,
+    "image": "../src/assets/furniture/lamp6.jpeg",
+    "rating": 5,
+    "category": "Lamp"
+  }
+]
